@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+openai
+edge-tts
+python-multipart
+pydub
+langdetect
